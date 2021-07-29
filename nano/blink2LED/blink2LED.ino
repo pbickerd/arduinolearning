@@ -8,8 +8,8 @@
  * GND rail to Resistor
  */
 
-const byte rled = 8
-const byte yled = 7
+const byte rled = 8;
+const byte yled = 7;
 
 void setup() {
   pinMode(rled, OUTPUT);
